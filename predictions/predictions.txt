@@ -1,0 +1,25 @@
+2024-09-23 23:01:21, User ID: anonymous, Image: download.jpeg, Prediction: Corn_(maize)___Common_rust_, Confidence: 0.1841
+2024-09-24 00:46:22, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Common_rust_, Confidence: 0.1837
+2024-09-24 00:49:41, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Common_rust_, Confidence: 0.1778
+2024-09-24 00:49:49, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Common_rust_, Confidence: 0.1778
+2024-09-24 00:55:02, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Common_rust_, Confidence: 0.1837
+2024-09-24 10:41:37, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Common_rust_, Confidence: 0.1778
+2024-09-24 10:57:20, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Common_rust_, Confidence: 0.1778
+2024-09-24 18:58:53, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Early_blight(3), Confidence: 0.6070
+2024-09-24 19:36:32, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Leaf_Mold(3), Confidence: 0.5716
+2024-09-24 19:53:13, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Leaf_Mold(3), Confidence: 0.5716
+2024-09-24 19:54:23, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Early_blight(3), Confidence: 0.6070
+2024-09-24 19:57:21, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Leaf_Mold(3), Confidence: 0.5716
+2024-09-24 20:20:45, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Leaf_Mold(3), Confidence: 0.5716
+2024-09-24 20:23:03, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Leaf_Mold(3), Confidence: 0.5716
+2024-09-24 20:24:52, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Early_blight(3), Confidence: 0.6070
+2024-09-24 20:27:28, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Spider_mites Two-spotted_spider_mite, Confidence: 0.7350
+2024-09-24 20:29:03, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Northern_Leaf_Blight(2), Confidence: 0.9715
+2024-09-24 20:34:28, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Common_rust_(2), Confidence: 0.5229
+2024-09-24 20:35:05, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Bacterial_spot, Confidence: 0.9945
+2024-09-24 20:42:34, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Late_blight(2), Confidence: 0.6257
+2024-09-24 20:43:06, User ID: anonymous, Image: image.jpg, Prediction: Tomato___Spider_mites Two-spotted_spider_mite, Confidence: 0.7350
+2024-09-24 22:27:50, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot(2), Confidence: 0.9966
+2024-09-24 22:29:54, User ID: anonymous, Image: image.jpg, Prediction: Corn_(maize)___Northern_Leaf_Blight(3), Confidence: 0.4856
+2024-09-26 01:55:22, User ID: test-user, Image: image.jpg, Prediction: Tomato___Spider_mites Two-spotted_spider_mite, Confidence: 0.7350
+2024-09-26 01:56:23, User ID: test-user, Image: image.jpg, Prediction: Tomato___Early_blight(3), Confidence: 0.6070
